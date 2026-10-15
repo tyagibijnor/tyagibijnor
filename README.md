@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I have 2 kids and play with him almost every day!
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyagibijnor&show_icons=true" alt="tyagibijnor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyagibijnor&show_icons=true&theme=dracula&hide_rank=false&include_all_commits=true" alt="tyagibijnor" /></p>
+
 
 
 **tyagibijnor/tyagibijnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
