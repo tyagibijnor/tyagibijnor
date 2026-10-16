@@ -1,6 +1,6 @@
-<!-- <h1 align="center">Hi 👋, Navneet Tyagi</h1> -->
+<h1 align="center">Hi... I'm Navneet 👋</h1>
 <!--<h1 align="center">Navneet Tyagi</h1> -->
-<h3 align="center">I am a Software Engineering and Product Development professional with 15+ years of experience in application development, technical problem-solving, production support, and software delivery.</h3>
+<h3 align="center">A Software Engineering and Product Development professional with 15+ years of experience in application development, technical problem-solving, production support, and software delivery.</h3>
 
 - 🌱 I am currently developing and troubleshooting software application issues, resolving defects, maintaining existing functionality, and supporting production systems.
 
@@ -15,10 +15,10 @@
 
 
 
-**tyagibijnor/tyagibijnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**tyagibijnor/tyagibijnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I am currently working on Python Application and learning Generative AI.
 - 👯 I am looking to collaborate on education
