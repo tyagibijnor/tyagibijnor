@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Navneet Tyagi</h1>
-<h3 align="center">I'm a Software Engineering and Product Development professional with 15+ years of experience in application development, technical problem-solving, production support, and software delivery.</h3>
+<h1 align="center">Hi 👋, Navneet Tyagi</h1>
+<h3 align="center">I am a Software Engineering and Product Development professional with 15+ years of experience in application development, technical problem-solving, production support, and software delivery.</h3>
 
-- 🌱 I’m currently developing & troubleshooting softwre application issues, resolve defects, maintain existing functionality, and support production systems.
+- 🌱 I am currently developing & troubleshooting softwre application issues, resolve defects, maintain existing functionality, and support production systems.
 
 - 🔭 I would love for you to checkout my projects, Python learning assignments [AssignmentAngryBird](https://github.com/tyagibijnor/AssignmentAngryBird) and [AssignmentStudentPortal](https://github.com/tyagibijnor/AssignmentStudentPortal)
 
