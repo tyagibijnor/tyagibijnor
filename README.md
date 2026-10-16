@@ -20,10 +20,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python Application
-- 🌱 I’m currently learning Generative AI
-- 👯 I’m looking to collaborate on education
-- 🤔 I’m looking for help with friend
+- 🔭 I am currently working on Python Application and learning Generative AI.
+- 👯 I am looking to collaborate on education
+- 🤔 I am looking for help with friend
 <!--
 - 💬 Ask me about 
 - 📫 How to reach me: ...
