@@ -29,12 +29,11 @@ Start with my [Python Playground](https://github.com/tyagibijnor/playground-pyth
 
 | Project | What you can explore |
 | --- | --- |
+| [Python Playground](https://github.com/tyagibijnor/playground-python/tree/main) | Python fundamentals, data structures, file handling, data gathering, and preprocessing practice |
 | [Generative AI apps](https://github.com/tyagibijnor/llm-apps-generative-ai) | My public Generative AI learning repository |
 | [LangChain and Hugging Face](https://github.com/tyagibijnor/generative-ai-langchain) | Repository for learning and experiments with LangChain and Hugging Face |
-| [Python Playground](https://github.com/tyagibijnor/playground-python/tree/main) | Python fundamentals, data structures, file handling, data gathering, and preprocessing practice |
 | [Student Portal](https://github.com/tyagibijnor/AssignmentStudentPortal) | Python command-line student grade system |
 | [Python mini-games](https://github.com/tyagibijnor/AssignmentAngryBird) | Pygame-based game and a terminal Tic-Tac-Toe game |
-| [Library Management System](https://github.com/tyagibijnor/PHP_CodeIgniterProject) | PHP and CodeIgniter application for managing library records and book issues |
 
 These are selected public repositories; [browse all my public projects on GitHub](https://github.com/tyagibijnor?tab=repositories).
 
