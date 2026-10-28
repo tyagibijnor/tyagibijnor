@@ -8,7 +8,7 @@
 
 I bring 15+ years of experience in software and product development, technical problem-solving, production support, and software delivery. I’m building on that experience with hands-on Python learning and a focused path toward Generative AI application development.
 
-My current public portfolio documents this progression: Python programming foundations, data analysis and visualization, and introductory Streamlit applications. I’m continuing to grow those skills toward building useful applications with large language models.
+My public portfolio highlights Python programming foundations and data-handling practice. I’m continuing to grow those skills toward building useful applications with large language models.
 
 ## Professional background and technical focus
 
@@ -24,13 +24,12 @@ My 15+ years describe my broader software and product development experience. Py
 
 I’m preparing for a Generative AI-focused role by combining my software delivery background with practical Python development. My learning roadmap is to extend the foundations shown in my repositories into LLM-powered applications, including prompt design, retrieval-augmented generation (RAG), evaluation, and deployment.
 
-The public `Gen-Ai` repository is currently a collection of learning assignments and introductory applications; it does not yet demonstrate a completed LLM-powered product. I’m actively building toward that next milestone.
+I’m continuing to develop my Generative AI skills and portfolio. My current focus is on extending my Python and data foundations toward practical LLM-powered applications.
 
-## Python and AI learning portfolio
+## Python learning portfolio
 
 | Project | What you can explore |
 | --- | --- |
-| [Gen-Ai learning assignments](https://github.com/tyagibijnor/Gen-Ai) | A structured Python learning portfolio covering programming fundamentals, OOP, exception handling, NumPy, pandas, data visualization, and introductory Streamlit apps |
 | [Python Playground](https://github.com/tyagibijnor/playground-python/tree/main) | Python fundamentals, data structures, file handling, data gathering, and data-cleaning practice |
 | [Student Portal](https://github.com/tyagibijnor/AssignmentStudentPortal) | Python command-line student grade system |
 | [Python mini-games](https://github.com/tyagibijnor/AssignmentAngryBird) | Pygame-based game and a terminal Tic-Tac-Toe game |
