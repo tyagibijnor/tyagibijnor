@@ -9,7 +9,7 @@ I'm a software development professional with 15+ years of experience in software
 
 I'm currently expanding my skills in Python, Generative AI, and Large Language Models (LLMs), with a focus on learning through hands-on practice and practical projects.
 
-🌱 What I'm Learning
+## 🌱 What I'm Learning
 
 - Python programming and application development
 - Generative AI fundamentals and applications
@@ -17,14 +17,14 @@ I'm currently expanding my skills in Python, Generative AI, and Large Language M
 - Building AI-powered applications
 - Exploring APIs, automation, and modern development tools
 
-🛠️ My Technical Background
+## 🛠️ My Technical Background
 
 - Languages: Perl, PHP, Python
 - Web Technologies: HTML, CSS, JavaScript, jQuery
 - Databases: SQL
 - Tools: Linux, Git, GitHub, Jira
 
-🚀 What You'll Find Here
+## 🚀 What You'll Find Here
 
 - Python practice projects and experiments
 - Generative AI learning projects
@@ -32,7 +32,7 @@ I'm currently expanding my skills in Python, Generative AI, and Large Language M
 - Code examples and technical notes
 - Progress from my continuous learning journey
 
-🎯 My Goal
+## 🎯 My Goal
 
 To combine my software engineering and product development experience with emerging AI technologies and gradually build practical expertise in AI-powered application development.
 
