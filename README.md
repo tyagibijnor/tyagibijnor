@@ -1,14 +1,44 @@
 <h1 align="center">Hi, I'm Navneet Tyagi 👋</h1>
 
-<h3 align="center">Software Engineering | Python | Generative AI Career Focus</h3>
+<h3 align="center">Software Engineering | Product Development | Exploring AI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Current%20focus-Generative%20AI%20%7C%20Python-3776AB?style=for-the-badge" alt="Current focus: Generative AI and Python" />
 </p>
+I'm a software development professional with 15+ years of experience in software engineering, product development, and technical problem-solving.
 
-I bring 15+ years of experience in software and product development, technical problem-solving, production support, and software delivery. I’m building on that experience with hands-on Python learning and a focused path toward Generative AI application development.
+I'm currently expanding my skills in Python, Generative AI, and Large Language Models (LLMs), with a focus on learning through hands-on practice and practical projects.
 
-My public portfolio highlights Python programming foundations and data-handling practice. I’m continuing to grow those skills toward building useful applications with large language models.
+🌱 What I'm Learning
+
+- Python programming and application development
+- Generative AI fundamentals and applications
+- Large Language Models (LLMs)
+- Building AI-powered applications
+- Exploring APIs, automation, and modern development tools
+
+🛠️ My Technical Background
+
+- Languages: Perl, PHP, Python
+- Web Technologies: HTML, CSS, JavaScript, jQuery
+- Databases: SQL
+- Tools: Linux, Git, GitHub, Jira
+
+🚀 What You'll Find Here
+
+- Python practice projects and experiments
+- Generative AI learning projects
+- LLM application experiments
+- Code examples and technical notes
+- Progress from my continuous learning journey
+
+🎯 My Goal
+
+To combine my software engineering and product development experience with emerging AI technologies and gradually build practical expertise in AI-powered application development.
+
+I'm always open to learning, collaboration, and exchanging ideas with the developer community.
+
+Learning continuously. Building consistently. Improving every day.
 
 ## Professional background and technical focus
 
@@ -40,7 +70,7 @@ I’m continuing to develop my Generative AI skills and portfolio. My current fo
 
 Browse [all my public repositories](https://github.com/tyagibijnor?tab=repositories).
 
-## Connect
+🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
 - [Online resume](https://tyagibijnor.github.io/)
