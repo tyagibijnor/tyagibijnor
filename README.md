@@ -20,6 +20,8 @@ I'm a software development professional with experience in software engineering,
 
 My AI work is an active learning journey—not a claim of 15 years of AI experience. I share practice projects and experiments as I learn.
 
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagibijnor&theme=dracula)](https://github.com/tyagibijnor)
+
 ## What I'm exploring
 
 - Python programming and application development
