@@ -22,6 +22,16 @@ My AI work is an active learning journey—not a claim of 15 years of AI experie
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagibijnor&theme=dracula)](https://github.com/tyagibijnor)
 
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tyagibijnor&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tyagibijnor&layout=compact&theme=tokyonight)
+
+
 ## What I'm exploring
 
 - Python programming and application development
