@@ -6,6 +6,16 @@
 15+ years of experience in software development and product engineering.
 Currently expanding my technical expertise in Python, Generative AI, LLMs, and AI-powered application development.
 
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
+[![Website](https://img.shields.io/badge/Website-Visit-222222?style=flat&logo=github&logoColor=white)](https://tyagibijnor.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-@tyagibijnor-181717?style=flat&logo=github&logoColor=white)](https://github.com/tyagibijnor)
+
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagibijnor&theme=dracula)](https://github.com/tyagibijnor)
+
+</div>
+
 ## About Me
 
 I'm a software engineering and product development professional with experience in building, maintaining, and supporting software applications.
