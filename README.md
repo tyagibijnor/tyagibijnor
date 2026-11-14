@@ -5,10 +5,9 @@
 
 ### Software Engineering · Product Development · Exploring Generative AI
 
-**15+ years building and supporting software products**
+**15+ years of experience in software development and product engineering.
+Currently expanding my technical expertise in Python, Generative AI, LLMs, and AI-powered application development.**
 <br />
-15+ years of experience in software development and product engineering.
-Currently expanding my technical expertise in Python, Generative AI, LLMs, and AI-powered application development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
 [![Website](https://img.shields.io/badge/Website-Visit-222222?style=flat&logo=github&logoColor=white)](https://tyagibijnor.github.io/)
