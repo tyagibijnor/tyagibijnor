@@ -1,63 +1,85 @@
-<div align="center">
 
 # Hi, I'm Navneet Tyagi 👋
 
-### Software Engineering · Product Development · Exploring Generative AI
+### Software Engineering | Product Development | Python | Generative AI
 
-**15+ years building and supporting software products**
-<br />
-Currently learning Python, Generative AI, and LLM application development.
+15+ years of experience in software development and product engineering.
+Currently expanding my technical expertise in Python, Generative AI, LLMs, and AI-powered application development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
-[![Website](https://img.shields.io/badge/Website-Visit-222222?style=flat&logo=github&logoColor=white)](https://tyagibijnor.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-@tyagibijnor-181717?style=flat&logo=github&logoColor=white)](https://github.com/tyagibijnor)
+## About Me
 
-</div>
+I'm a software engineering and product development professional with experience in building, maintaining, and supporting software applications.
 
-## About me
+My professional background includes application development, technical problem-solving, engineering delivery, and team collaboration.
 
-I'm a software development professional with experience in software engineering, product development, technical problem-solving, maintenance, and production support. I'm building on that background as I develop practical skills in Python and Generative AI.
+I'm currently focused on strengthening my Python skills and exploring Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents through hands-on projects.
 
-My AI work is an active learning journey—not a claim of 15 years of AI experience. I share practice projects and experiments as I learn.
+I believe in continuous learning and building practical solutions that solve real-world problems.
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagibijnor&theme=dracula)](https://github.com/tyagibijnor)
+## Technical Skills
 
-<!--
-## 📊 GitHub Statistics
+**Programming Languages**
+- Python
+- PHP
+- Perl
+- JavaScript
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tyagibijnor&show_icons=true&theme=tokyonight)
+**Web Technologies**
+- HTML5
+- CSS3
+- jQuery
+- Vue.js
 
-## 💻 Most Used Languages
+**Backend & Databases**
+- Django
+- SQL
+- MySQL
+- REST APIs
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tyagibijnor&layout=compact&theme=tokyonight)
--->
+**Tools & Platforms**
+- Git
+- GitHub
+- Linux
+- Jira
 
-## What I'm exploring
+**Current Learning Focus**
+- Python Application Development
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- AI-powered Applications
 
-- Python programming and application development
-- Generative AI and large language models (LLMs)
-- Building practical AI-powered applications
-- APIs, automation, and modern development tools
+## Featured Projects
 
-## Featured projects
+| Repository | Description |
+|---|---|
+| [Python Learning Lab](https://github.com/tyagibijnor/python-learning-lab) | Hands-on Python learning and programming exercises |
+| [Python Mini Games](https://github.com/tyagibijnor/python-mini-game) | Python game development experiments |
+| [Generative AI Python Projects](https://github.com/tyagibijnor/generative-ai-python-projects) | Python and Generative AI experiments |
+| [Student Portal](https://github.com/tyagibijnor/student-portal) | Student management and grade-average application |
+| [Vue Frontend Practice](https://github.com/tyagibijnor/vue-frontend-practice) | Frontend development practice with Vue.js |
+| [CodeIgniter Library Management](https://github.com/tyagibijnor/codeigniter-library-management-system) | PHP and CodeIgniter learning project |
 
-| Project | What you'll find |
-| --- | --- |
-| [Python Learning Lab](https://github.com/tyagibijnor/python-learning-lab) | Hands-on Python practice: core language concepts, data structures, functions, and file handling. |
-| [Python Mini-Games](https://github.com/tyagibijnor/python-mini-game) | A Pygame side-scroller and a terminal Tic-Tac-Toe game. |
-| [Generative AI Python Projects](https://github.com/tyagibijnor/generative-ai-python-projects) | An evolving space for Python and LLM application experiments. |
-| [Student Portal](https://github.com/tyagibijnor/AssignmentStudentPortal) | A command-line Python app for managing students and viewing grade averages. |
+## Current Learning Journey
 
-You can also [browse all my public repositories](https://github.com/tyagibijnor?tab=repositories).
+I'm working towards building expertise in modern AI application development.
 
-## Background
+My current focus:
+1. Strengthening Python and advanced programming concepts.
+2. Building applications using APIs and FastAPI.
+3. Understanding LLMs and prompt engineering.
+4. Developing RAG-based applications.
+5. Exploring AI Agents and automation.
+6. Building practical, portfolio-ready projects.
 
-**Languages and technologies:** Python, PHP, Perl, JavaScript, HTML, CSS, SQL, Linux, Git, and GitHub.
+## Connect With Me
 
-My professional experience spans software and product development. Python and Generative AI are my current learning and career focus.
+- **LinkedIn:** [Navneet Tyagi](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
+- **GitHub:** [tyagibijnor](https://github.com/tyagibijnor)
+- **Portfolio:** [Personal Website](https://tyagibijnor.github.io/)
 
-## Let's connect
+---
 
-- [LinkedIn](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
-- [Website and resume](https://tyagibijnor.github.io/)
-- [GitHub repositories](https://github.com/tyagibijnor?tab=repositories)
+*Learning continuously. Building practically. Growing with technology.*
+
