@@ -85,9 +85,9 @@ My current focus:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyagibijnor&show_icons=true&hide_border=true" alt="Navneet's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagibijnor&layout=compact&hide_border=true" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagibijnor&hide_border=true" alt="GitHub contribution streak" />
+  <a href="https://github.com/tyagibijnor">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagibijnor&theme=dracula" alt="GitHub profile summary" />
+  </a>
 </div>
 
 ## Connect With Me
