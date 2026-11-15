@@ -15,6 +15,14 @@ Currently expanding my technical expertise in Python, Generative AI, LLMs, and A
 
 </div>
 
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/tyagibijnor">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagibijnor&theme=dracula" alt="GitHub profile summary" />
+  </a>
+</div>
+
 ## About Me
 
 I'm a software engineering and product development professional with experience in building, maintaining, and supporting software applications.
@@ -81,14 +89,6 @@ My current focus:
 4. Developing RAG-based applications.
 5. Exploring AI Agents and automation.
 6. Building practical, portfolio-ready projects.
-
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/tyagibijnor">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagibijnor&theme=dracula" alt="GitHub profile summary" />
-  </a>
-</div>
 
 ## Connect With Me
 
