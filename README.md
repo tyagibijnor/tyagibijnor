@@ -82,6 +82,14 @@ My current focus:
 5. Exploring AI Agents and automation.
 6. Building practical, portfolio-ready projects.
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tyagibijnor&show_icons=true&hide_border=true" alt="Navneet's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagibijnor&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyagibijnor&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
 ## Connect With Me
 
 - **LinkedIn:** [Navneet Tyagi](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
