@@ -28,10 +28,8 @@ Currently expanding my technical expertise in Python, Generative AI, LLMs, and A
 -->
 <div align="center">
 
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=tyagibijnor &amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;v=20261115"
-    width="32%"
-    alt="GitHub Stats"
+  <img src="https://github-stats-extended.vercel.app/api?username=tyagibijnor&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;v=20261115"
+    width="32%"alt="GitHub Stats"
   /><img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=tyagibijnor &amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=20261115"
     width="32%"
