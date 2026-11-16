@@ -23,29 +23,6 @@ Currently expanding my technical expertise in Python, Generative AI, LLMs, and A
   </a>
 </div>
 
-<!--
-<div align="center">
-
-  <img src="https://github-stats-extended.vercel.app/api?username=tyagibijnor&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;v=20261115"
-    width="32%"alt="GitHub Stats"
-  /><img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tyagibijnor &amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=20261115"
-    width="32%"
-    alt="Top Languages"
-  /><img
-    src="https://streak-stats.demolab.com?user=tyagibijnor &amp;theme=tokyonight&amp;hide_border=true&amp;v=20261115"
-    width="32%"
-    alt="GitHub Streak"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagibijnor &amp;theme=tokyonight&amp;v=20261115"
-    width="95%"
-    alt="GitHub Activity"
-  />
-
-</div>
--->
-
 ## About Me
 
 I'm a software engineering and product development professional with experience in building, maintaining, and supporting software applications.
