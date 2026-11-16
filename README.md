@@ -17,15 +17,13 @@ Currently expanding my technical expertise in Python, Generative AI, LLMs, and A
 
 ## GitHub Stats
 
-<!--
-
 <div align="center">
   <a href="https://github.com/tyagibijnor">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyagibijnor&theme=dracula" alt="GitHub profile summary" />
   </a>
 </div>
 
--->
+<!--
 <div align="center">
 
   <img src="https://github-stats-extended.vercel.app/api?username=tyagibijnor&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;v=20261115"
@@ -46,6 +44,7 @@ Currently expanding my technical expertise in Python, Generative AI, LLMs, and A
   />
 
 </div>
+-->
 
 ## About Me
 
