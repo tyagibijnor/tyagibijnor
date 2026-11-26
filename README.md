@@ -1,114 +1,90 @@
+<div align="center">
+
 # Hi, I'm Navneet Tyagi 👋
 
-### Software Engineering | Product Development | Python | Generative AI
+### Software Engineering & Product Development | Python | Generative AI
 
-**15+ years of experience in software engineering and product development.**
+15+ years of experience in software engineering and product development, building and improving practical software solutions.
 
-I'm building on my professional engineering background by developing practical Python applications and expanding into Generative AI, LLM engineering, RAG, and AI-powered applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/tyagibijnor)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?logo=googlechrome&logoColor=white)](https://tyagibijnor.github.io/)
 
-My focus is on writing maintainable code, solving real-world problems, testing implementations, and building projects that demonstrate practical engineering skills.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/tyagibijnor)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=flat&logo=google-chrome)](https://tyagibijnor.github.io/)
+</div>
 
 ---
 
-## 🚀 Current Engineering Focus
+## 👨‍💻 About Me
 
-- **Advanced Python:** OOP, closures, decorators, context managers, iterators, generators, and clean code.
-- **Backend Engineering:** Python application development, REST APIs, FastAPI, and MySQL.
-- **Software Quality:** Unit testing, input validation, debugging, documentation, and Git workflows.
-- **Generative AI:** LLM fundamentals, prompt engineering, embeddings, RAG, and AI Agents.
-- **Practical Engineering:** Building maintainable, testable, portfolio-ready applications.
+I am a software engineering and product development professional with 15+ years of experience in designing, developing, maintaining, and delivering software solutions.
 
-## ⭐ Featured Project
+My current focus is strengthening my Python engineering skills and building practical applications while exploring Generative AI and LLM-based application development.
 
-### Python Advanced Learning
+I believe in continuous learning, clean code, practical implementation, automated testing, and sharing useful work through GitHub.
+
+## 🚀 Featured Project
+
+### [Python Advanced Learning](https://github.com/tyagibijnor/python-advanced-learning)
+
+A hands-on Python engineering repository covering concepts and practical implementations, including:
+
+- Advanced Python concepts such as closures, decorators, and context managers
+- Object-oriented and functional programming
+- File handling and exception handling
+- Python and MySQL integration
+- Unit testing and code quality practices
+- Practical exercises, notes, and documentation
+
+**Tech:** Python · MySQL · unittest · Git · Linux
 
 [![Python Advanced Learning](https://github-readme-stats.vercel.app/api/pin/?username=tyagibijnor&repo=python-advanced-learning&theme=tokyonight&hide_border=true)](https://github.com/tyagibijnor/python-advanced-learning)
-
-A structured, hands-on Python engineering repository containing:
-
-- Week-by-week Python learning modules.
-- Functional programming and object-oriented programming.
-- Iterators, generators, closures, and decorators.
-- Python and MySQL integration with CRUD operations.
-- Logging, exception handling, and input validation.
-- Automated unit tests and practical demonstrations.
-- Detailed README files and technical learning documentation.
-
-**My engineering approach:** Learn a concept, implement it, test it, review it, document it, and commit it.
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/tyagibijnor">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=tyagibijnor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Navneet's GitHub statistics" />
-</a>
-<a href="https://github.com/tyagibijnor">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagibijnor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tyagibijnor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Navneet's GitHub statistics" />
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagibijnor&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=tyagibijnor&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-## 💻 Technology Stack
+## 🛠️ Technologies & Tools
 
-**Programming Languages**
+**Languages**  
+Python · PHP · Perl · JavaScript · SQL · HTML · CSS
 
-Python · PHP · Perl · JavaScript
+**Frameworks & Libraries**  
+Django · jQuery · Vue
 
-**Backend & Database**
+**Databases**  
+MySQL
 
-Django · MySQL · SQL · REST APIs
-
-**Frontend**
-
-HTML · CSS · jQuery · Vue.js
-
-**Development Tools**
-
+**Tools & Platforms**  
 Linux · Git · GitHub · Jira
 
-**Currently Exploring**
+**Current Learning Focus**  
+Generative AI · Large Language Models (LLMs) · Retrieval-Augmented Generation (RAG) · AI Agents
 
-Generative AI · LLMs · Prompt Engineering · RAG · AI Agents
+## 🎯 Current Focus
 
-## 🧭 My Learning Journey
-
-My current roadmap is focused on progressing from strong software engineering fundamentals to practical AI application development.
-
-1. Advanced Python programming and software engineering practices.
-2. Backend application development and REST APIs.
-3. Data handling, embeddings, and LLM fundamentals.
-4. Prompt engineering and RAG applications.
-5. AI Agents, tool calling, and workflow automation.
-6. Testing, evaluating, and deploying AI-powered applications.
-
-I believe in learning by building, experimenting, testing, and improving.
-
-## 🔧 Other Projects
-
-| Project | Description |
-|---|---|
-| [Python Learning Lab](https://github.com/tyagibijnor/python-learning-lab) | Python practice and programming exercises |
-| [Generative AI Python Projects](https://github.com/tyagibijnor/generative-ai-python-projects) | Python and Generative AI experiments |
-| [Student Portal](https://github.com/tyagibijnor/student-portal) | Student management and grade-average application |
-| [Python Mini Games](https://github.com/tyagibijnor/python-mini-game) | Python game development experiments |
+- Writing maintainable and testable Python code
+- Building practical Python projects and strengthening software design skills
+- Exploring LLM application development, RAG, and AI agents
+- Applying engineering discipline: testing, documentation, version control, and code review
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Navneet Tyagi](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
-- **GitHub:** [@tyagibijnor](https://github.com/tyagibijnor)
-- **Portfolio:** [tyagibijnor.github.io](https://tyagibijnor.github.io/)
+- LinkedIn: [linkedin.com/in/navneet-tyagi-9597155a](https://www.linkedin.com/in/navneet-tyagi-9597155a/)
+- GitHub: [github.com/tyagibijnor](https://github.com/tyagibijnor)
+- Portfolio: [tyagibijnor.github.io](https://tyagibijnor.github.io/)
 
 ---
 
-**Navneet Tyagi**
+<div align="center">
 
-*Building with purpose. Learning continuously. Engineering for the future.*
+*Thanks for visiting my profile. Feel free to explore my repositories and connect!*
+
+</div>
